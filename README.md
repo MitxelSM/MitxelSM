@@ -1,51 +1,13 @@
-# 👋 Hi there, I'm Mitxel Sulca
+👋 Hi, I'm Mitxel Sulca!
 
-🚀 Junior DevOps / SRE | Focused on **Kubernetes**, **Terraform** & **Cloud Infrastructure** | Improving reliability through automation and smart infrastructure  
-🌍 Based in Barcelona, Spain  
-📫 Contact: mitxel.it@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/mitxel-sulca)
+I’m an enthusiastic junior Cloud & DevOps enthusiast, actively building my skills in Kubernetes, Terraform, and infrastructure automation. My goal is to become a skilled Site Reliability Engineer (SRE) — someone who helps companies improve reliability and automate processes to make their systems run smoothly and safely.
 
----
+Though I’m still growing professionally, I bring solid experience in technical support, system administration, and working with tools like Linux, Docker, Bash scripting, PHP, Python, Prometheus, Grafana, and more. I love learning on my own and taking on new challenges that push me to grow faster.
 
-### 🧠 About Me
+I’m a fast learner, self-motivated, and enjoy collaborating with others. Having worked directly with users, I value clear communication and teamwork, and I thrive adapting to new environments and technologies — because that means I’m constantly growing, and that excites me.
 
-I'm passionate about automation, infrastructure reliability, and scalable systems.  
-Currently building strong foundations in Cloud & DevOps with a hands-on mindset.  
-Focused on becoming a skilled **Site Reliability Engineer (SRE)**, one step at a time.
+While I’m open to any work setup, I’d love to eventually work remotely, even if part-time.
 
-- 🎓 Background in Systems Administration (SMR & ASIR)
-- 🛠️ Currently mastering: `Kubernetes`, `Terraform`, `CI/CD`, `Linux`
-- ☁️ Interested in: AWS, GCP, GitHub Actions, Monitoring, IaC
+When I’m not diving into cloud or DevOps, I also enjoy programming and experimenting with new languages — it’s a fun way to keep sharpening my skills.
 
----
-
-### 🧰 Toolbox
-
-Here’s what I’m currently using and learning:
-
-- **Infrastructure**: Kubernetes · Docker · Terraform · Helm  
-- **CI/CD**: GitHub Actions · Jenkins (learning)  
-- **Cloud**: AWS (beginner) · GCP (exploring)  
-- **Monitoring**: Prometheus · Grafana (learning path)  
-- **Dev Tools**: Git · Bash · VSCode · Linux  
-- **Languages**: YAML · HCL · Bash · PHP (basic) · Python · IPC  
-
----
-
-### 📈 Goals
-
-- 🚧 Improve practical experience with production-like Kubernetes clusters  
-- 🌐 Deploy real-world apps with full infrastructure automation  
-- 🧩 Learn advanced Terraform modules & Kubernetes patterns  
-- 👥 Collaborate on open source or homelab projects  
-- 📖 Document everything: clarity is key to reliability
-
----
-
-### 💬 Let's Connect
-
-If you’re working on something interesting or want to talk about DevOps, SRE, or Cloud, feel free to reach out!
-
----
-
-> _"Improving reliability through automation and smart infrastructure."_
+Feel free to connect if you want to chat about Cloud, DevOps, or just tech in general!
