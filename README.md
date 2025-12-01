@@ -1,13 +1,49 @@
-👋 Hi, I'm Mitxel Sulca!
+# 👋 Hi, I'm Mitxel Sulca
 
-I’m an enthusiastic junior Cloud & DevOps enthusiast, actively building my skills in Kubernetes, Terraform, and infrastructure automation. My goal is to become a skilled Site Reliability Engineer (SRE) — someone who helps companies improve reliability and automate processes to make their systems run smoothly and safely.
+I'm a **junior Systems & Infrastructure engineer** on my way to a **DevOps / SRE** role.
 
-Though I’m still growing professionally, I bring solid experience in technical support, system administration, and working with tools like Linux, Docker, Bash scripting, PHP, Python, Prometheus, Grafana, and more. I love learning on my own and taking on new challenges that push me to grow faster.
+I’ve worked in **IT support & sysadmin** in real environments (consulting, logistics, hospital, retail), and now I’m focusing on **automation, monitoring and infrastructure** while building my own homelab projects.
 
-I’m a fast learner, self-motivated, and enjoy collaborating with others. Having worked directly with users, I value clear communication and teamwork, and I thrive adapting to new environments and technologies — because that means I’m constantly growing, and that excites me.
+---
 
-While I’m open to any work setup, I’d love to eventually work remotely, even if part-time.
+## 🔧 What I work with
 
-When I’m not diving into cloud or DevOps, I also enjoy programming and experimenting with new languages — it’s a fun way to keep sharpening my skills.
+- **Systems & Infra:** Linux & Windows, basic server admin, user/access management  
+- **Networking & Security:** FortiGate 7.6 Operator, VPN, basic networking  
+- **DevOps / Monitoring:** Docker, Prometheus, Grafana  
+- **Code & Scripting:** Python, PHP, Bash, SQLite3  
 
-Feel free to connect if you want to chat about Cloud, DevOps, or just tech in general!
+I don’t pretend to be an expert — I use these tools daily at work and in personal projects to keep improving.
+
+---
+
+## 🧪 Current focus
+
+- 📚 Studying **FortiGate 7.6 Administrator**
+- 🏗️ Building a **local media server** with:
+  - Auth & roles (admin / editor / viewer)
+  - Logs in SQLite (who did what and when)
+  - Monitoring with Prometheus & Grafana
+- 🌱 Moving step by step towards a **DevOps / SRE** profile
+
+---
+
+## 🌍 Languages
+
+- 🇪🇸 Spanish – Native | 🇦🇩 Catalan – Native | 🇬🇧 English – B2  
+
+Based near **Barcelona (Spain)** and interested in **Systems / DevOps / SRE / Infrastructure** roles.
+
+---
+
+## 📫 Contact
+
+- 📧 Email: _[your email]_  
+- 💼 LinkedIn: _[your LinkedIn]_  
+
+---
+
+## 🇪🇸 About me (short – Spanish)
+
+Soy un perfil junior de **Sistemas e Infraestructura** en crecimiento hacia **DevOps / SRE**.  
+He trabajado en soporte y sysadmin en entornos reales (consultoría, logística, hospital, retail) y desarrollo proyectos de homelab (como un servidor multimedia con roles, logs y monitorización) para seguir aprendiendo de forma práctica.
